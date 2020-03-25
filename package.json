@@ -1,0 +1,21 @@
+{
+    "name": "video-club-20",
+    "version": "1.0.0",
+    "description": "Proyecto de Video Club",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "app.js"
+    },
+    "keywords": [
+        "video-club",
+        "video",
+        "test",
+        "demo"
+    ],
+    "author": "L Mario Muñeton",
+    "license": "ISC",
+    "dependencies": {
+        "log4js": "^6.1.2"
+    }
+}
